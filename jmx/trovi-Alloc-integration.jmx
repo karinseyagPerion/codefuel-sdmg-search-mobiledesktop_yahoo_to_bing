@@ -50,7 +50,7 @@
         </HeaderManager>
         <hashTree/>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" enabled="true">
-          <stringProp name="filename">C:\SearchAutomationProjects\codefuel-sdmg-search-mobiledesktop\data\mobile_integration.csv</stringProp>
+          <stringProp name="filename">..\data\mobile_desktop-qa.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames"></stringProp>
           <stringProp name="delimiter">,</stringProp>
