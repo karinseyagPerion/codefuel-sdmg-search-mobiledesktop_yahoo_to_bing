@@ -50,7 +50,7 @@
         </HeaderManager>
         <hashTree/>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" enabled="true">
-          <stringProp name="filename">../data/Mobile_Desktop_staging.csv</stringProp>
+          <stringProp name="filename">../data/allocation_mode_production_east_move _yahoo_traffic_to_bing.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames"></stringProp>
           <stringProp name="delimiter">,</stringProp>
